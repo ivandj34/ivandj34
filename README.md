@@ -26,19 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Angular, Java with Spring framework, Supabase and Vercel**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Angular 19 and Python**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💬 Ask me about **Java, Spring framework, Angular, Python, Oracle, Postgres, Supabase and Vercel**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 📫 Feel free to reach me out **ivandejesus.clemente34@gmail.com**
 <!--Intro end-->
 
 
