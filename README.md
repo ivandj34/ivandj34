@@ -10,11 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--Intro start-->
@@ -75,4 +70,4 @@
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
+Last Edited on: 26/06/2025
